@@ -1,2 +1,5 @@
-package com.johnny.profileservice.domain.enumeration;public enum Gender {
+package com.johnny.profileservice.domain.enumeration;
+
+public enum Gender {
+    MALE, FEMALE , OTHER
 }
