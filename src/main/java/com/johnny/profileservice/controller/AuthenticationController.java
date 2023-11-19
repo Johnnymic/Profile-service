@@ -1,2 +1,6 @@
-package com.johnny.profileservice.controller;public class Authentication {
+package com.johnny.profileservice.controller;
+
+public class AuthenticationController {
+
+
 }
